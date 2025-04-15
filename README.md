@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Jeff
 
-👨‍💻 **Software Engineer | Solutions Engineer**  
-🌟 13 years of experience in software engineering  
-🚀 Former Solutions Engineer at Algolia  
-🎓 Recent graduate of Le Wagon Data Science & AI Bootcamp  
+👨‍💻 **Software | Solutions Engineer | Google**  
+🌟 13 years of experience in software engineering
+🚀 Former Solutions Engineer at Algolia
+🎓 2024 graduate of Le Wagon Data Science & AI Bootcamp
 🎓 Master's Degree in Software Engineering from Université de Lorraine
 
 ## About Me
